@@ -1,5 +1,5 @@
 
-package dyanamicprogramming;
+package dp;
 
 /**
  *

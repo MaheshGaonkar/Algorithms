@@ -1,4 +1,4 @@
-package dyanamicprogramming;
+package dp;
 
 /**
  *
